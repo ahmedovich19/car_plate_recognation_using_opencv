@@ -1,2 +1,2 @@
 # car_plate_recognation_using_opencv
-car_plate_recognation_using_opencv
+In this notebook we made car plate recognation in highways using opencv and others libraries numpy,pandas,matplotlib,imutils,easyocr.we first changed the color of the image to the gray then we made noise reduction andto make edge detection and extracted the contours then we got out the numer platte from the image and read it with easyocr library and written it on the image.
